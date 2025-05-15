@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Gwenaelvl.github.io/sitemap.xml
+Sitemap: https://gwenaelvl.github.io/sitemap.xml
