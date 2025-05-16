@@ -11,14 +11,7 @@
       "city": "Vienna",
       "countryCode": "AT",
       "region": "Austria"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
