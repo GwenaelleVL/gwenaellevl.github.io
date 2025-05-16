@@ -3,10 +3,8 @@
     "name": "Gwenael Van Looveren",
     "label": "Astrophysicist",
     "image": "",
-    "email": "gwenael.van.looveren@univie.ac.at",
-    "phone": " ",
+    "email": "gwenael.van.looveren@univie.ac.at"
     "url": "https://gwenaelvl.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "Türkenschanzstrasse 17",
       "postalCode": "1180",
@@ -125,7 +123,7 @@
     {
       "name": "Astrophysics",
       "level": "PhD",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-star",
       "keywords": [
         "Exoplanets",
         "Atmospheric modelling",
@@ -135,7 +133,7 @@
     {
       "name": "Artificial Intelligence",
       "level": "MSc",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-cogs",
       "keywords": [
         "Machine Learning",
         "Big Data Analysis",
@@ -175,7 +173,7 @@
       "icon": ""
     },
     {
-      "language": "Chinese (Mandarine)",
+      "language": "Chinese (Mandarin)",
       "fluency": "Basic",
       "icon": ""
     }
@@ -183,7 +181,7 @@
   "interests": [
     {
       "name": "Astrophysics",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-star",
       "keywords": [
         "Exoplanets",
         "Atmospheric modelling",
@@ -192,7 +190,7 @@
     },
     {
       "name": "Artificial Intelligence",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-cogs",
       "keywords": [
         "Big Data Analysis",
         "Astrophysic Applications"
