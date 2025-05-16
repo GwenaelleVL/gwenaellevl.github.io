@@ -17,7 +17,7 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
-announcements:
+<!--announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
@@ -25,7 +25,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts-->
 ---
 
 I am a PhD student at the University of Vienna. My scientific research focuses on the theoretical modelling of atmospheres of planets and exoplanets. In particular my studies have focused on the various circumstances underwhich a planet can hold onto its atmosphere and when it is lost.
