@@ -2,7 +2,8 @@
 layout: page
 title: Presentation Bingo
 description: A bingo card for presentations.
-img: assets/img/GwenaelBild.jpg
+img: assets/img/stamp.png
+category: fun
 importance: 1
 category: fun
 related_publications: false
@@ -52,7 +53,7 @@ related_publications: false
 </div>
 <button id="startButton" onclick="anotherCard()">New Card</button>
 
-<script src="../_scripts/bingo.js"></script>
+<script src="../assets/js/bingo.js"></script>
 <script type="text/javascript">
     newCard();
 </script>
