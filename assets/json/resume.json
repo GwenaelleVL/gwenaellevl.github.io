@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Gwenael Van Looveren",
+    "name": "Gwenaël Van Looveren",
     "label": "Astrophysicist",
     "image": "",
     "email": "gwenael.van.looveren@univie.ac.at",
@@ -16,10 +16,19 @@
   "work": [
     {
       "name": "Department of Astrophysics, University of Vienna",
+      "position": "Post Doctoral Researcher",
+      "url": "https://ease.univie.ac.at",
+      "startDate": "2025-08-01",
+      "endDate": "Present",
+      "summary": "Researching the upper atmospheres of early Solar System planets and exoplanets.",
+      "highlights": ["Planetary atmospheres"]
+    },
+    {
+      "name": "Department of Astrophysics, University of Vienna",
       "position": "PhD student",
       "url": "https://astro.univie.ac.at/en/",
       "startDate": "2021-09-15",
-      "endDate": "2025-09-01",
+      "endDate": "2025-07-31",
       "summary": "Researching the upper atmospheres of (exo)planets.",
       "highlights": ["Planetary atmospheres"]
     },
@@ -48,7 +57,7 @@
       "area": "Astrophysics",
       "studyType": "PhD",
       "startDate": "2021-09-15",
-      "endDate": "2025-08-01"
+      "endDate": "2025-07-31"
     },
     {
       "institution": "KU Leuven, Leuven, Belgium",
@@ -87,15 +96,6 @@
       "endDate": "2016-08"
     }
   ],
-  "certificates": [
-    {
-      "name": "Basic First Aid",
-      "date": "2025-02-04",
-      "issuer": "Wiener Rotes Kreuz",
-      "url": "https://www.roteskreuz.at/wien/home",
-      "icon": "fa-solid fa-medkit"
-    }
-  ],
   "publications": [
     {
       "name": "Habitable Zone and Atmosphere Retention Distance (HaZARD) - Stellar-evolution-dependent Loss Models of Secondary Atmosphere",
@@ -110,6 +110,29 @@
       "releaseDate": "2024-03-01",
       "url": "https://doi.org/10.1051/0004-6361/202348079",
       "summary": "A paper looking at the thermal loss of the TRAPPIS-1 planets."
+    },
+    {
+      "name": "PRESTALINE: A package for analysis and simulation of star forming regions",
+      "publisher": "Proceedings of IAU",
+      "releaseDate": "2023-01-20",
+      "url": "https://doi.org/10.1017/S1743921322001375",
+      "summary": "A paper on modelling of molecular clouds"
+    },
+    {
+      "name": "PRESTALINE: a package for simulation and analysis of molecular spectra of star forming regions",
+      "publisher": "Open Astronomy",
+      "releaseDate": "2021-12-13",
+      "url": "https://doi.org/10.1515/astro-2021-0012",
+      "summary": "A paper on modelling of molecular clouds"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Basic First Aid",
+      "date": "2025-02-04",
+      "issuer": "Wiener Rotes Kreuz",
+      "url": "https://www.roteskreuz.at/wien/home",
+      "icon": "fa-solid fa-medkit"
     }
   ],
   "skills": [
@@ -188,6 +211,196 @@
         "Big Data Analysis",
         "Astrophysic Applications"
       ]
+    },
+    {
+      "name": "Science Outreach",
+      "icon": "fa-solid fa-bullhorn",
+      "keywords": [
+        "Outreach to general public",
+        "Teaching astronomy to children"
+      ]
     }
+  ],
+  "conferences": [{
+    "name": "EAS Annual Meeting",
+    "date": "2025-06",
+    "location": "Cork, Ireland",
+    "summary": "Contributed Talk"
+  },
+  {
+    "name": "Graz Wien Exoplanet Science Meeting VI",
+    "date": "2025-05",
+    "location": "Graz, Austria",
+    "summary": "Flash Talk"
+  },
+  {
+    "name": "Star Planet Interaction Workshop",
+    "date": "2024-11",
+    "location": "St. Malo, France",
+    "summary": "Invited Talk"
+  },
+  {
+    "name": "Ariel Consortium Meeting",
+    "date": "2024-10",
+    "location": "Lisbon, Portugal",
+    "summary": "Contributed Talk"
+  },
+  {
+    "name": "Graz Wien Exoplanet Science Meeting V",
+    "date": "2024-09",
+    "location": "Vienna, Austria",
+    "summary": "Flash Talk"
+  },
+  {
+    "name": "Austria-Japan Joint Seminar on Atmospheric Modelling",
+    "date": "2024-09",
+    "location": "Vienna, Austria",
+    "summary": "Organiser / Presenter"
+  },
+  {
+    "name": "Exoplanets V",
+    "date": "2024-06",
+    "location": "Leiden, Netherland",
+    "summary": "Poster"
+  },
+  {
+    "name": "Graz Wien Exoplanet Science Meeting IV",
+    "date": "2024-05",
+    "location": "Graz, Austria",
+    "summary": "Contributed Talk"
+  },
+  {
+    "name": "Ariel Consortium Meeting",
+    "date": "2024-04",
+    "location": "Tartu, Estonia",
+    "summary": "Contributed Talk"
+  },
+  {
+    "name": "EGU General Assembly",
+    "date": "2024-04",
+    "location": "Vienna, Austria",
+    "summary": "Contributed Talk"
+  },
+  {
+    "name": "Ariel Consortium Meeting",
+    "date": "2023-10",
+    "location": "Budapest, Hungary",
+    "summary": "Participant"
+  },
+  {
+    "name": "Graz Wien Exoplanet Science Meeting II",
+    "date": "2023-05",
+    "location": "Graz, Austria",
+    "summary": "Contributed Talk"
+  },
+  {
+    "name": "Protostars and Planets VII",
+    "date": "2023-04",
+    "location": "Kyoto, Japan",
+    "summary": "Poster"
+  },
+  {
+    "name": "JWST MIRI GTO Meeting",
+    "date": "2023-02",
+    "location": "Leuven, Belgium",
+    "summary": "Participant"
+  },
+  {
+    "name": "JWST MIRI GTO Meeting",
+    "date": "2022-11",
+    "location": "Heidelberg, Germany",
+    "summary": "Participant"
+  },
+  {
+    "name": "Thinkshop 2022: High-resolution spectroscopy for exoplanet atmospheres and biomarkers",
+    "date": "2022-09",
+    "location": "Potsdam, Germany",
+    "summary": "Contributed Talk"
+  },
+  {
+    "name": "30th IAU General Assembly",
+    "date": "2018-08",
+    "location": "Vienna, Austria",
+    "summary": "Volunteer"
+  },
+  {
+    "name": "Astrobiology Summer School",
+    "date": "2018-07",
+    "location": "Vienna, Austria",
+    "summary": "Participant"
+  },
+  {
+    "name": "Post-Alpbach Summer School",
+    "date": "2017-11",
+    "location": "Redu, Belgium",
+    "summary": "Participant"
+  },
+  {
+    "name": "Alpbach Summer School",
+    "date": "2017-07",
+    "location": "Alpbach, Austria",
+    "summary": "Participant"
+  },
+  {
+    "name": "2nd Advanced School on Exoplanet Science",
+    "date": "2017-05",
+    "location": "Vietri sul Mare, Italy",
+    "summary": "Participant"
+  }
+  ],
+  "outreach": [{
+    "name": "Kinder Uni Wien",
+    "date": "2025-07",
+    "location": "Vienna, Austria",
+    "summary": "Presentation 'What is Life and where to find it?'"
+  },
+  {
+    "name": "Lange Nacht der Forchung",
+    "date": "2024-05",
+    "location": "Vienna, Austria",
+    "summary": "Musical Performance"
+  },
+  {
+    "name": "Science Academy Niederösterreich",
+    "date": "2024-04",
+    "location": "Krems, Austria",
+    "summary": "Presentation 'Himmelsmechanismen'"
+  },
+  {
+    "name": "Kinder Uni Wien",
+    "date": "2023-07",
+    "location": "Vienna, Austria",
+    "summary": "Copresenter 'Life in the Universe'"
+  },
+  {
+    "name": "Big Picture Talks: The PLEES Index & Effectively Communicating on Climate Change",
+    "date": "2023-04",
+    "location": "Vienna, Austria",
+    "summary": "Organiser / Presenter"
+  },
+  {
+    "name": "Big Picture Talks: Graveyard of Space Technology - The Problem of Space Junk",
+    "date": "2023-02",
+    "location": "Vienna, Austria",
+    "summary": "Organiser / Presenter"
+  },
+  {
+    "name": "Lange Nacht der Forchung",
+    "date": "2022-05",
+    "location": "Vienna, Austria",
+    "summary": "Doctoral programme booth"
+  },
+  {
+    "name": "IAU100 Astronomy Day in School",
+    "date": "2019-11",
+    "location": "Herenthout, Belgium",
+    "summary": "Presentation 'What is falling out of the sky?'"
+  },
+  {
+    "name": "Observatoire Centre Ardenne",
+    "date": "2019",
+    "location": "Grapfontaine, Belgium",
+    "summary": "Presentations to general public"
+  }
   ]
 }

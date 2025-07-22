@@ -265,7 +265,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Van Looveren]
-  first_name: [Gwenael, Gwenaël, G.]
+  first_name: [Gwenael, Gwenaël, G., Gwenaelle, Gwenaëlle]
 
   style: apa
   locale: en
@@ -638,3 +638,5 @@ jsonresume:
   - skills
   - languages
   - interests
+  - conferences
+  - outreach
