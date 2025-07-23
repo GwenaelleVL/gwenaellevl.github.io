@@ -56,11 +56,9 @@ function setSquare(thisSquare) {
     document.getElementById(currSquare).onmousedown = toggleColor;
 }
 
-
 function getNewNum() {
 	return Math.floor(Math.random() * options.length);
 }
-
 
 function anotherCard() {
 	for (var i=1; i<usedNums.length; i++) {
@@ -69,7 +67,6 @@ function anotherCard() {
 	newCard();
 	return false;
 }
-
 
 function toggleColor(evt) {
 	if (evt) {
@@ -84,7 +81,6 @@ function toggleColor(evt) {
 	}
 	checkWin();
 }
-
 
 function checkWin() {
 	var winningOption = -1;
