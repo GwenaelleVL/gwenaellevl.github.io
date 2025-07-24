@@ -29,4 +29,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts-->
 ---
 
-I am a PhD student at the University of Vienna. My scientific research focuses on the theoretical modelling of atmospheres of planets and exoplanets. In particular my studies have focused on the various circumstances underwhich a planet can hold onto its atmosphere and when it is lost.
+I am a post doctoral researcher at the University of Vienna. My scientific research focuses on the theoretical modelling of atmospheres of planets and exoplanets. In particular my studies have focused on the various circumstances underwhich a planet can hold onto its atmosphere and when it is lost.

@@ -5,7 +5,7 @@ permalink: /projects/
 description: A set of random projects and little applications I work on.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [fun]
 horizontal: false
 ---
 
