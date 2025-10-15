@@ -7,7 +7,7 @@ subtitle: <a href='https://astro.univie.ac.at/en/'>Affiliations</a>. Department 
 
 profile:
   align: right
-  image: GwenaelBild.jpg
+  image: gwenaellevl.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 112.2</p>
