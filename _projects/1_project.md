@@ -121,7 +121,7 @@ This card is not made to make fun of or ridicule anyone, but rather as a more in
   </li>
   <li><b>4:3 is still relevant</b>:<br>
   The vast majority of monitors nowadays use a 16:9, you end up losing a lot of space when you use the 4:3 aspect ratio.</li>
-  <li><b>'Ofcourse I know what slide comes next'</b>:<br>
+  <li><b>'Of course I know what slide comes next'</b>:<br>
   Nothing breaks an audience as much out of the flow of a presentation as the presenter themselves being surprised by their own slides. Make sure you know what the order of your slides is.</li>
   <li><b>Notification!</b>:<br>
   Getting an update about your package delivery is great, but if it shows up infront of an audience, they might miss what your slides say, but they sure will remember the content of your package.</li>
