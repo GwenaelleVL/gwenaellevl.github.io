@@ -9,7 +9,8 @@ category: fun
 related_publications: false
 ---
 
-As a large part of the work as a researcher consists of clearly sharing our results, we can all improve our presentation skills. 
+As a large part of the work as a researcher consists of clearly sharing our results, we can all impr
+ove our presentation skills. 
 In order to have a bit of silly fun, I made this bingo card with some "presentation sins". 
 Whilst attending presentations you can tick the boxes of points you notice in the presentation.
 This card is not made to make fun of or ridicule anyone, but rather as a more interactive way of paying attention to common actions/design choices people make that (in my opinion) detract from a clear presentation.
@@ -116,7 +117,7 @@ This card is not made to make fun of or ridicule anyone, but rather as a more in
   <li><b>Equations</b>:<br>
   Equations usually take a lot of time to work through as usually most variables needs to be explained. Unless you have the time to explain the equation, it is best to keep them in the back up slides or simplify them to the essence you want to share.</li>
   <li><b>Citations are optional</b>:<br>
-  A problem more common in student presentations, is talking about other people's work without properly citing them. This is also useful when people want to read up more n a topic afterwards.
+  A problem more common in student presentations, is talking about other people's work without properly citing them. This is also useful when people want to read up more on a topic afterwards.
   </li>
   <li><b>4:3 is still relevant</b>:<br>
   The vast majority of monitors nowadays use a 16:9, you end up losing a lot of space when you use the 4:3 aspect ratio.</li>
